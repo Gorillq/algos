@@ -1,0 +1,3 @@
+/home/kamilk/CLionProjects/buuble/cmake-build-debug/CMakeFiles/buuble.dir
+/home/kamilk/CLionProjects/buuble/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kamilk/CLionProjects/buuble/cmake-build-debug/CMakeFiles/rebuild_cache.dir
